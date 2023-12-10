@@ -145,10 +145,12 @@
 				msg += "카드 승인 번호 : " + rsp.apply_num;
 				
 				var data = { 
+						orderId : rsp.merchant_uid,
+						memo : deliveryMemo,
 						totalPrice : rsp.paid_amount,
 						totalCnt : length,
-						orderStatus : rsp.status
-					}
+						orderStatus : rsp.status,
+					};
 				
 				$.ajax("orderFinish.do",{
 					type:"post",
@@ -169,7 +171,7 @@
 	}
 	
 	//toss
-	function requestTossPay() { //결제할 상품 명 으로 바꾸기 
+	function requestTossPay() { 
 		var IMP = window.IMP;
 		IMP.init("imp88308510");
 		var totalPayment = $("#totalPayment").attr("data-total");
@@ -208,10 +210,12 @@
 					msg += "카드 승인 번호 : " + rsp.apply_num;
 					
 					var data = { 
+							orderId : rsp.merchant_uid,
+							memo : deliveryMemo,
 							totalPrice : rsp.paid_amount,
 							totalCnt : length,
-							orderStatus : rsp.status
-						}
+							orderStatus : rsp.status,
+						};
 					
 					$.ajax("orderFinish.do",{
 						type:"post",
@@ -244,6 +248,7 @@
 				'width=600,height=600,scrollbars=yes');
 	}
 </script>
+
 <style>
 .orderCheckoutHide {
 	display: none;
@@ -542,12 +547,6 @@ h3 {
 				</div>
 			</div>
 		</div>
-		<!-- [결제하기 버튼] <div class="paymentBtn">
-			<button type="button" name="payBtn" id="payBtn" width="240"
-				height="56" radius="3" onclick="orderFinish()">
-				<span><fmt:formatNumber type="number" maxFractionDigits="3" value="${totalPayment }" /> 원 결제하기</span>
-			</button>
-		</div> -->
 	</div>
 	</div>
 	<!-- footer -->
