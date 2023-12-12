@@ -37,6 +37,6 @@ ShoppingMall Project
 - cart 관련 모든 페이지 css 화면 구현
 
 # 참고한 사이트
-https://www.kurly.com/main
-https://ohou.se/store?utm_source=google_shop&utm_campaign=uc_web-all-all-google_shop_pmax_all_purchase&utm_term=&utm_content=ssc&affect_type=UtmUrl&gclid=CjwKCAiAg9urBhB_EiwAgw88mWXu_RVcgt4X9dCZgo0bglyoqzS-U2fQ7GZdQEPlSu7ihLV5uSehRBoC_NwQAvD_BwE
-https://sell.smartstore.naver.com/#/home/about
+- 마켓컬리 : https://www.kurly.com/main
+- 오늘의 집 : https://ohou.se/store?utm_source=google_shop&utm_campaign=uc_web-all-all-google_shop_pmax_all_purchase&utm_term=&utm_content=ssc&affect_type=UtmUrl&gclid=CjwKCAiAg9urBhB_EiwAgw88mWXu_RVcgt4X9dCZgo0bglyoqzS-U2fQ7GZdQEPlSu7ihLV5uSehRBoC_NwQAvD_BwE
+- 네이버 스마트 스토어 센터 : https://sell.smartstore.naver.com/#/home/about
