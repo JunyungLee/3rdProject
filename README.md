@@ -36,3 +36,7 @@ ShoppingMall Project
 - 마이페이지 내 주문 내역 조회
 - cart 관련 모든 페이지 css 화면 구현
 
+# 참고한 사이트
+https://www.kurly.com/main
+https://ohou.se/store?utm_source=google_shop&utm_campaign=uc_web-all-all-google_shop_pmax_all_purchase&utm_term=&utm_content=ssc&affect_type=UtmUrl&gclid=CjwKCAiAg9urBhB_EiwAgw88mWXu_RVcgt4X9dCZgo0bglyoqzS-U2fQ7GZdQEPlSu7ihLV5uSehRBoC_NwQAvD_BwE
+https://sell.smartstore.naver.com/#/home/about
