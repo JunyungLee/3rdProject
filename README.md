@@ -1,4 +1,4 @@
-# ThirdProject_End
+<img width="1399" alt="스크린샷 2024-01-01 오후 8 50 55" src="https://github.com/JunyungLee/Okitchen/assets/139120379/a3dc9af6-ccf0-427d-8fcd-7241bccaa95b"># ThirdProject_End
 ShoppingMall Project
 
 # 개발환경
@@ -34,10 +34,15 @@ ShoppingMall Project
    - KakaoPay API 활용 결제 기능 개발
    - TossPayments API 활용 결제 기능 개발
    - KG Inicis API 활용 결제 기능 개발
-- 주문 취소 기능 개발 
+- 주문 취소 기능 개발
+
 - 주문 완료 기능 개발
 - 마이페이지 내 주문 내역 조회 기능 개발
 - 위 기능 관련 모든 페이지 css 화면 구현
+
+<img width="1594" alt="스크린샷 2024-01-01 오후 8 49 46" src="https://github.com/JunyungLee/Okitchen/assets/139120379/1e13d17a-be8f-4f0c-9dc7-2f083930c7e4">
+<img width="1399" alt="스크린샷 2024-01-01 오후 8 51 33" src="https://github.com/JunyungLee/Okitchen/assets/139120379/17797b84-f0ee-41ed-b9e3-4d46762a41f5">
+
 
 # 참고한 사이트
 - 마켓컬리 : https://www.kurly.com/main
