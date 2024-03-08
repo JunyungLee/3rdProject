@@ -44,7 +44,8 @@ ShoppingMall Project
 # 장바구니 기능 구현 
 - 원하는 상품을 선택 후 수량 선택 후 장바구니 담기 가능
 - 장바구니에 담은 상품들을 장바구니를 통해 조회, 수량 수정, 삭제 가능
-- 장바구니를 통해 일괄주문, 선택주문 가능 
+- 장바구니를 통해 일괄주문, 선택주문 가능
+- 배송을 위한 배송지 수정 가능 -> 고객당 하나의 배송지만 등록 가능하도록 구현
 <img width="800" alt="스크린샷 2024-01-01 오후 8 49 46" src="https://github.com/JunyungLee/Okitchen/assets/139120379/1e13d17a-be8f-4f0c-9dc7-2f083930c7e4">
 <img width="800" alt="스크린샷 2024-01-01 오후 8 51 33" src="https://github.com/JunyungLee/Okitchen/assets/139120379/17797b84-f0ee-41ed-b9e3-4d46762a41f5">
 
