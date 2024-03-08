@@ -45,7 +45,8 @@ ShoppingMall Project
 <img width="800" alt="스크린샷 2024-01-01 오후 8 49 46" src="https://github.com/JunyungLee/Okitchen/assets/139120379/1e13d17a-be8f-4f0c-9dc7-2f083930c7e4">
 <img width="800" alt="스크린샷 2024-01-01 오후 8 51 33" src="https://github.com/JunyungLee/Okitchen/assets/139120379/17797b84-f0ee-41ed-b9e3-4d46762a41f5">
 
-# 결제 API 사용 -> 결제 기능 구현
+# 결제 API 사용
+- 테스트 결제를 할 수 있는 결제 API 연결을 통해 파라미터에 값 전달 및 결제 될 수 있도록 기능 구현
 <img width="800" alt="스크린샷 2024-01-01 오후 8 56 56" src="https://github.com/JunyungLee/Okitchen/assets/139120379/941590b7-efd5-48a6-bed1-6b14fd360df3">
 <img width="800" alt="스크린샷 2024-01-01 오후 8 57 12" src="https://github.com/JunyungLee/Okitchen/assets/139120379/f165a8aa-13f6-4a5b-824c-def3bc884f3d">
 <img width="800" alt="스크린샷 2024-01-01 오후 8 57 26" src="https://github.com/JunyungLee/Okitchen/assets/139120379/603f1469-7f97-4018-96a3-37760f42cc15">
